@@ -1,22 +1,94 @@
-<h1 align="center">Hi 👋, I'm Harshvardhan Bhavsar</h1>
-<h3 align="center">A passionate Fullstack MERN developer from India</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I’m currently working on **Dynamic Personal Portfolio Website**
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello 👋, I'm Harshvardhan Bhavsar</h1></summary>
+  </ul>
+</div>
 
-- 🌱 I’m currently learning **React JS, TypeScript, Node JS**
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-- 💬 Ask me about **Fullstack Development**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 📫 How to reach me **harshvardhanbhavsar11@gmail.com**
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- ⚡ Fun fact **I think I am creative at designing UI / UX Components, which I am lerning too.**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshvardhan-bhavsar-6ba92715b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshvardhan-bhavsar-6ba92715b" height="30" width="40" /></a>
+
+- 🌱 I’m currently learning advance Dynamic Web Development concepts.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :nerd_face: Always `learning new things`.
+- 💬 Ask me about anything, I love to answer!
+- :thinking: I’m currently open for new `job opportunity`.
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/harshvardhan-bhavsar-6ba92715b/) 🏆.
+<br>
+
+
+
+
+  ## 🛠️ My Skills
+-------------------
+### Programming languages:
+&emsp;
+![JavaScript](https://icons8.com/icon/108784/javascript)
+![Java](https://icons8.com/icon/13679/java)
+![Python](https://icons8.com/icon/13441/python)
+![TypeScript](https://icons8.com/icon/wpZmKzk11AzJ/typescript)
+
+
+### Frontend Development:
+&emsp;
+![HTML](https://icons8.com/icon/20909/html-5)
+![CSS](https://icons8.com/icon/21278/css3)
+![Bootstrap](https://icons8.com/icon/EzPCiQUqWWEa/bootstrap)
+![jquery](https://icons8.com/icon/XH6rVkDQCZ9U/jquery)
+![React](https://icons8.com/icon/123603/react-native)
+
+
+### Backend Development:
+&emsp;
+![Node JS](https://icons8.com/icon/54087/nodejs)
+![Express](https://img.shields.io/badge/-Express-000?logo=Express)
+
+### Misc Tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
+
+
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+
+
+<h3 align="center" >Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/harshvardhan-bhavsar-6ba92715b/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/hb484911">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+           <a style="margin-left: 10px;" target="_blank" href="mailto:harshvardhanbhavsar11@gmail.com">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+      </div>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hb484911&show_icons=true&locale=en&layout=compact" alt="hb484911" /></p>
+<p>Total visitors till now 👇❤️</p>
+<img src="https://profile-counter.glitch.me/hb484911/count.svg">
+
+-------
+Credits: [hb484911](https://github.com/hb484911)
+Last Edited on: 05-06-2024
