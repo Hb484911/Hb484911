@@ -4,16 +4,11 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello 👋, I'm Harshvardhan Bhavsar</h1></summary>
+    <summary><h1 style="display: inline-block">Hello 👋, Developers</h1></summary>
   </ul>
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+I'm Harshvardhan Bhavsar, a Computer Science B.Tech graduate and tech enthusiast. Open to collaborations on projects and innovative ideas. Connect with me here!
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -35,39 +30,28 @@
 
   ## 🛠️ My Skills
 -------------------
-### Programming languages:
-&emsp;
-![JavaScript](https://icons8.com/icon/108784/javascript)
-![Java](https://icons8.com/icon/13679/java)
-![Python](https://icons8.com/icon/13441/python)
-![TypeScript](https://icons8.com/icon/wpZmKzk11AzJ/typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
 
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap&logoColor=563D7C)
+![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=flat&logo=jQuery&logoColor=0769AD)
 
-### Frontend Development:
-&emsp;
-![HTML](https://icons8.com/icon/20909/html-5)
-![CSS](https://icons8.com/icon/21278/css3)
-![Bootstrap](https://icons8.com/icon/EzPCiQUqWWEa/bootstrap)
-![jquery](https://icons8.com/icon/XH6rVkDQCZ9U/jquery)
-![React](https://icons8.com/icon/123603/react-native)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-0D1117?logo=Express)
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?logo=MongoDB)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=postgresql)
 
-### Backend Development:
-&emsp;
-![Node JS](https://icons8.com/icon/54087/nodejs)
-![Express](https://img.shields.io/badge/-Express-000?logo=Express)
+![Git](https://img.shields.io/badge/-Git-0D1117?logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?logo=GitHub)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-### Misc Tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
-
-
-### Databases:
-&emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 
 
 <h3 align="center" >Connect with me 🤝 </h3>
